@@ -24,9 +24,13 @@ Simply follow these steps:
 Optional: Define LiveArea Style available. See below:
 
 Center =       a1
+
 Left =         psmobile
+
 Center-Upper = a2
+
 Left-Upper =   a5
+
 Left-Lower =   vd
 
 

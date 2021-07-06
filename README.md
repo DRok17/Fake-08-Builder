@@ -1,6 +1,8 @@
 # Fake-08-Builder
 
-Big thanks to jtothebell and Lexaloffle Team for making this possible.
+Big thanks to jtothebell for making this possible.
+
+And to Lexaloffle Team for providing the platform and software tools for Pico-8 game developers.
 
 ***ONLY WORKS WITH FAKE-08 v0.0.2.11 AND HIGHER***
 
@@ -53,10 +55,6 @@ icon0 = Square
 
 Shoutouts:
 
-Lexaloffle Team: https://www.lexaloffle.com/pico-8.php
-
 jtothebell: Creator of Fake-08 - https://github.com/jtothebell/fake-08
 
-
-
-
+Lexaloffle Team: https://www.lexaloffle.com/pico-8.php

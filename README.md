@@ -17,7 +17,7 @@ Simply follow these steps:
 4) Run zz-Fake08-Builder.bat 
 5) Select Image Converter and wait until finished
 6) Select Create VPK
-7) Name, Title ID, and Cart/File Name
+7) Name, Title ID, and enter Cart/File Name
 8) VPK will then generate in VPK folder
 9) Transfer and install to the Vita.
 

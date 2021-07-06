@@ -40,6 +40,7 @@ icon0 = Square
 Shoutouts:
 
 Lexaloffle Team: https://www.lexaloffle.com/pico-8.php
+
 jtothebell: Creator of Fake-08 - https://github.com/jtothebell/fake-08
 
 

@@ -1,35 +1,48 @@
-# Scummvm-Builder
+# Fake-08-Builder
 
-Big thanks to cy33hc and Scummvm Team for making this possible.
+Big thanks to jtothebell and Lexaloffle Team for making this possible.
 
-***ONLY WORKS WITH SCUMMVM 2.3 AND HIGHER***
+***ONLY WORKS WITH FAKE-08 v0.0.2.11 AND HIGHER***
 
-Link for instructions on compiling Scummvm official source code: https://wiki.scummvm.org/index.php?title=PlayStation_Vita
+Link for instructions on compiling fake-08 official source code: https://github.com/jtothebell/fake-08
 
-Link to unofficial Scummvm fork by cy33hc: https://github.com/cy33hc/scummvm-bubble-booter/releases/download/v1.0/scummvm.vpk
+Link to official bubble builder by jtothebell: https://github.com/jtothebell/fake-08-vita-launcher
 
-Scummvm-Builder is a tool that creates LiveArea Bubbles on Windows 10 for the PS Vita.
+Fake-08-Builder is a tool for Windows 10 that creates LiveArea Bubbles for Pico-8 carts on the PS Vita.
 
 Simply follow these steps:
 1) Download the required images (Supported formats: jpg, jpeg, bmp, png, jfif, tiff)
 2) Place them into the Input folder 
 3) Name as: bg, icon0, startup 
-4) Run zz-ScummVM-Builder.bat 
+4) Run zz-Fake08-Builder.bat 
 5) Select Image Converter and wait until finished
 6) Select Create VPK
-7) Name, Title ID, Game ID (Please review ux0:data/scummvm/scummvm.ini file) and enter Folder to desired game
+7) Name, Title ID, and Cart/File Name
 8) VPK will then generate in VPK folder
 9) Transfer and install to the Vita.
 
-Optional: Define Folder Path available
+Optional: Define LiveArea Style available. See below:
 
-![image](https://user-images.githubusercontent.com/81541725/122704095-f4a25d80-d220-11eb-83d5-1c38e5d379a8.png)
+Center =       a1
 
-![image](https://user-images.githubusercontent.com/81541725/122704620-10f2ca00-d222-11eb-9f18-f022342c5f2b.png)
+Left =         psmobile
 
-![image](https://user-images.githubusercontent.com/81541725/122704333-80b48500-d221-11eb-931e-9f2075a734f5.png)
+Center-Upper = a2
 
-![image](https://user-images.githubusercontent.com/81541725/122704284-5c58a880-d221-11eb-81ca-f770a68d6775.png)
+Left-Upper =   a5
+
+Left-Lower =   vd
+
+
+
+![image](https://user-images.githubusercontent.com/81541725/124622080-ca6bb500-de48-11eb-9f7f-367218a816a5.png)
+
+![image](https://user-images.githubusercontent.com/81541725/124610300-647a3000-de3e-11eb-8a51-2c5255e6ce31.png)
+
+![image](https://user-images.githubusercontent.com/81541725/124622007-b922a880-de48-11eb-9052-a07699425ca6.png)
+
+![image](https://user-images.githubusercontent.com/81541725/124622299-fd15ad80-de48-11eb-9fe2-86e9dccd2f9e.png)
+
 
 
 For the best results, please use the Photos App (standard Windows app) to crop images BEFORE conversion.
@@ -40,8 +53,9 @@ icon0 = Square
 
 Shoutouts:
 
-Scummvm Team: https://github.com/scummvm/scummvm
-cy33hc: For creating the Scummvm Bubble Booter - https://github.com/cy33hc/scummvm-bubble-booter
+Lexaloffle Team: https://www.lexaloffle.com/pico-8.php
+
+jtothebell: Creator of Fake-08 - https://github.com/jtothebell/fake-08
 
 
 

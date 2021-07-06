@@ -21,6 +21,16 @@ Simply follow these steps:
 8) VPK will then generate in VPK folder
 9) Transfer and install to the Vita.
 
+Optional: Define LiveArea Style available. See below:
+
+Center =       a1
+Left =         psmobile
+Center-Upper = a2
+Left-Upper =   a5
+Left-Lower =   vd
+
+
+
 ![image](https://user-images.githubusercontent.com/81541725/124622080-ca6bb500-de48-11eb-9f7f-367218a816a5.png)
 
 ![image](https://user-images.githubusercontent.com/81541725/124610300-647a3000-de3e-11eb-8a51-2c5255e6ce31.png)

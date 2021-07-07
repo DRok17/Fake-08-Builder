@@ -1,6 +1,8 @@
 # Fake-08-Builder
 
-Big thanks to jtothebell and Lexaloffle Team for making this possible.
+Big thanks to jtothebell for making this possible.
+
+And to Lexaloffle Team for providing the platform and software tools for Pico-8 game developers.
 
 ***ONLY WORKS WITH FAKE-08 v0.0.2.11 AND HIGHER***
 
@@ -17,7 +19,7 @@ Simply follow these steps:
 4) Run zz-Fake08-Builder.bat 
 5) Select Image Converter and wait until finished
 6) Select Create VPK
-7) Name, Title ID, and Cart/File Name
+7) Name, Title ID, and enter Cart/File Name
 8) VPK will then generate in VPK folder
 9) Transfer and install to the Vita.
 
@@ -53,10 +55,6 @@ icon0 = Square
 
 Shoutouts:
 
-Lexaloffle Team: https://www.lexaloffle.com/pico-8.php
-
 jtothebell: Creator of Fake-08 - https://github.com/jtothebell/fake-08
 
-
-
-
+Lexaloffle Team: https://www.lexaloffle.com/pico-8.php

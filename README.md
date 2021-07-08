@@ -35,17 +35,21 @@ Left-Upper =   a5
 
 Left-Lower =   vd
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81541725/124622080-ca6bb500-de48-11eb-9f7f-367218a816a5.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81541725/124610300-647a3000-de3e-11eb-8a51-2c5255e6ce31.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
-![image](https://user-images.githubusercontent.com/81541725/124622080-ca6bb500-de48-11eb-9f7f-367218a816a5.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81541725/124622007-b922a880-de48-11eb-9052-a07699425ca6.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
-![image](https://user-images.githubusercontent.com/81541725/124610300-647a3000-de3e-11eb-8a51-2c5255e6ce31.png)
-
-![image](https://user-images.githubusercontent.com/81541725/124622007-b922a880-de48-11eb-9052-a07699425ca6.png)
-
-![image](https://user-images.githubusercontent.com/81541725/124622299-fd15ad80-de48-11eb-9fe2-86e9dccd2f9e.png)
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81541725/124622299-fd15ad80-de48-11eb-9fe2-86e9dccd2f9e.png?raw=true" alt="Sublime's custom image"/>
+</p>
 
 For the best results, please use the Photos App (standard Windows app) to crop images BEFORE conversion.
 
